@@ -1,0 +1,8 @@
+{
+  "welcome": "Bienvenido al Proyecto Web Moderno",
+  "description": "Este es un proyecto web moderno que utiliza Next.js, Tailwind CSS y varias bibliotecas.",
+  "clickMe": "¡Haz clic! Contador: {{count}}",
+  "home": "Inicio",
+  "about": "Acerca de"
+}
+

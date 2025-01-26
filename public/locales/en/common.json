@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to Modern Web Project",
+  "description": "This is a modern web project using Next.js, Tailwind CSS, and various libraries.",
+  "clickMe": "Click me! Count: {{count}}",
+  "home": "Home",
+  "about": "About"
+}
+
